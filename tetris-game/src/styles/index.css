@@ -1,0 +1,19 @@
+tetris-game
+├── public
+│   └── index.html
+├── src
+│   ├── components
+│   │   ├── AuthScreen.js
+│   │   ├── GameScreen.js
+│   │   └── Controls.js
+│   ├── utils
+│   │   ├── gameLogic.js
+│   │   └── constants.js
+│   ├── styles
+│   │   └── index.css
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── tailwind.config.js
+├── .gitignore
+└── README.md
